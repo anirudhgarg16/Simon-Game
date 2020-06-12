@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  background-color: #ccffcc;
+}
+
+#level-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  margin:  5%;
+  color: #001a00;
+}
+

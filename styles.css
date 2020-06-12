@@ -24,6 +24,11 @@ body {
   width: 200px;
   border: 10px solid black;
   border-radius: 20%;
+  transition: transform .2s;
+}
+
+.btn:hover {
+  transform: scale(1.1);
 }
 
 .game-over {
@@ -50,4 +55,12 @@ body {
 .pressed {
   box-shadow: 0 0 20px white;
   background-color: grey;
+}
+
+footer {
+  margin: 5%;
+}
+
+.footer-link {
+  margin: 15px;
 }
